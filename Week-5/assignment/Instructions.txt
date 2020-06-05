@@ -1,0 +1,6 @@
+Place these Files in XAMPP
+1>Open Xampp folder in local disc C
+2>Open htdocs 
+3>Create Folder and place these files
+4>open Browser and rename the local host/foldername/filename
+5>Make a Screenshot
